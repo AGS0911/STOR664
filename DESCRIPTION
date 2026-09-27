@@ -1,11 +1,13 @@
 Package: STOR664
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Intro to Linear Models
 Version: 0.1.0
-Author: Who wrote it
+Author: Adhvytha Srigopal
 Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+Description: 1st Homework Assignment covering the views of matrix multiplication
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
